@@ -1,0 +1,21 @@
+{
+  "model": "LinearSVC",
+  "vectorizer": "TfidfVectorizer",
+  "ngram_range": [
+    1,
+    2
+  ],
+  "max_features": 30000,
+  "min_df": 2,
+  "max_df": 0.95,
+  "test_size": 0.2,
+  "random_state": 42,
+  "number_of_samples": 1975,
+  "number_of_train_samples": 1580,
+  "number_of_test_samples": 395,
+  "number_of_classes": 2,
+  "classes": [
+    "صفحه نخست",
+    "عصرايران دو"
+  ]
+}

@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+   صفحه نخست       0.94      0.94      0.94       200
+ عصرايران دو       0.93      0.93      0.93       195
+
+    accuracy                           0.93       395
+   macro avg       0.93      0.93      0.93       395
+weighted avg       0.93      0.93      0.93       395

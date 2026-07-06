@@ -1,0 +1,10 @@
+Most confused pair:
+The model most frequently classified "صفحه نخست" as "عصرايران دو".
+
+Number of such errors:
+13
+
+Possible reason:
+These two topics probably share overlapping vocabulary and similar news context. In Persian news, categories such as politics, economy, society, and international affairs often contain common words related to government, institutions, sanctions, prices, decisions, and public events.
+
+Because this model is based on TF-IDF features, it mainly learns word-frequency patterns rather than deep semantic meaning. Therefore, when two topics use similar words, the classifier may confuse them.
